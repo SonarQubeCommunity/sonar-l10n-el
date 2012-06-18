@@ -26,7 +26,7 @@ import org.junit.Test;
 
 public class GreekPackPluginTest {
 
-  private static final String SONAR_VERSION = "3.0";
+  private static final String SONAR_VERSION = "3.1";
 
   @Test
   public void coreBundleShouldBeUpToDate() {
