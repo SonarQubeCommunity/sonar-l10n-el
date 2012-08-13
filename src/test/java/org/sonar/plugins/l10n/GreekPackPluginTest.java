@@ -46,6 +46,7 @@ public class GreekPackPluginTest {
       put("uselesscodetracker", "http://svn.codehaus.org/sonar-plugins/tags/sonar-useless-code-tracker-plugin-0.5/src/main/resources/org/sonar/l10n/uselesscodetracker.properties");
       put("violationdensity", "http://svn.codehaus.org/sonar-plugins/tags/sonar-violationdensity-plugin-1.2/src/main/resources/org/sonar/l10n/violationdensity.properties");
       put("web", "http://svn.codehaus.org/sonar-plugins/tags/sonar-web-plugin-1.2/src/main/resources/org/sonar/l10n/web.properties");
+      put("widgetlab", "http://svn.codehaus.org/sonar-plugins/tags/sonar-widget-lab-plugin-1.2/src/main/resources/org/sonar/l10n/widgetlab.properties");
 
       // TODO : following plugins have currently no released version to check against => update when a first release with bundles is done.
       put("tabmetrics", "http://svn.codehaus.org/sonar-plugins/trunk/tab-metrics/src/main/resources/org/sonar/l10n/tabmetrics.properties");
