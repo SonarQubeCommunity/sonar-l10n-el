@@ -50,6 +50,7 @@ public class GreekPackPluginTest {
 
       // TODO : following plugins have currently no released version to check against => update when a first release with bundles is done.
       put("tabmetrics", "http://svn.codehaus.org/sonar-plugins/trunk/tab-metrics/src/main/resources/org/sonar/l10n/tabmetrics.properties");
+      put("comparing", "http://svn.codehaus.org/sonar-plugins/trunk/comparing/src/main/resources/org/sonar/l10n/comparing.properties");
     }
   };
 
