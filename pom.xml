@@ -14,6 +14,7 @@
   <packaging>sonar-plugin</packaging>
   
   <name>L10n :: Greek Pack</name>
+  <description>Language Pack for Greek</description>
   <url>http://docs.codehaus.org/display/SONAR/Greek+Pack</url>
   <inceptionYear>2011</inceptionYear>
 
