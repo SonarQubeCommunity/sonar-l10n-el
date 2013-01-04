@@ -1,6 +1,6 @@
 /*
  * L10n :: Greek Pack
- * Copyright (C) 2011 OTS SA
+ * Copyright (C) 2011 Patroklos PAPAPETROU
  * dev@sonar.codehaus.org
  *
  * This program is free software; you can redistribute it and/or
