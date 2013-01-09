@@ -10,7 +10,7 @@
   
   <groupId>org.codehaus.sonar-plugins.l10n</groupId>
   <artifactId>sonar-l10n-el-plugin</artifactId>
-  <version>1.7-SNAPSHOT</version>
+  <version>1.7</version>
   <packaging>sonar-plugin</packaging>
   
   <name>L10n :: Greek Pack</name>
@@ -20,7 +20,7 @@
 
   <organization>
     <name>Patroklos PAPAPETROU</name>
-    <url></url>
+    <url />
   </organization>
 
   <licenses>
@@ -35,7 +35,7 @@
     <connection>scm:git:git://github.com/SonarCommunity/sonar-l10n-fr.git</connection>
     <developerConnection>scm:git:git@github.com:SonarCommunity/sonar-l10n-fr.git</developerConnection>
     <url>https://github.com/SonarCommunity/sonar-l10n-el</url>
-    <tag>HEAD</tag>
+    <tag>sonar-l10n-el-plugin-1.7</tag>
   </scm>
 
   <properties>
