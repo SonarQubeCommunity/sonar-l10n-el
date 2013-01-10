@@ -35,7 +35,6 @@
     <connection>scm:git:git://github.com/SonarCommunity/sonar-l10n-el.git</connection>
     <developerConnection>scm:git:git@github.com:SonarCommunity/sonar-l10n-el.git</developerConnection>
     <url>https://github.com/SonarCommunity/sonar-l10n-el</url>
-    <tag>sonar-l10n-el-plugin-1.7</tag>
   </scm>
 
   <properties>
