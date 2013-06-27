@@ -49,10 +49,10 @@
     <!-- Versions of the plugin translated by this language pack -->
     <bundle.abacus>0.1</bundle.abacus>
     <bundle.branding>0.4</bundle.branding>
-    <bundle.core>3.4</bundle.core>
+    <bundle.core>3.6</bundle.core>
     <bundle.jira>1.1</bundle.jira>
-    <bundle.motionchart>1.4</bundle.motionchart>
-    <bundle.squidjava>1.1</bundle.squidjava>
+    <bundle.motionchart>1.5</bundle.motionchart>
+    <bundle.squidjava>1.2</bundle.squidjava>
     <bundle.thucydides>0.1</bundle.thucydides>
     <bundle.tabmetrics>1.2</bundle.tabmetrics>
     <bundle.violationdensity>1.2</bundle.violationdensity>
