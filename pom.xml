@@ -56,7 +56,7 @@
     <bundle.thucydides>0.1</bundle.thucydides>
     <bundle.tabmetrics>1.2</bundle.tabmetrics>
     <bundle.violationdensity>1.2</bundle.violationdensity>
-    <bundle.uselesscodetracker>0.5</bundle.uselesscodetracker>
+    <bundle.uselesscodetracker>0.6</bundle.uselesscodetracker>
     <bundle.widgetlab>1.3</bundle.widgetlab>
     <bundle.web>1.2</bundle.web>
   </properties>
