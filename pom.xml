@@ -15,7 +15,7 @@
   
   <name>L10n :: Greek Pack</name>
   <description>Language Pack for Greek</description>
-  <url>http://docs.codehaus.org/display/SONAR/Greek+Pack</url>
+  <url>https://github.com/SonarQubeCommunity/sonar-l10n-el</url>
   <inceptionYear>2011</inceptionYear>
 
   <organization>
@@ -32,15 +32,15 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:git://github.com/SonarCommunity/sonar-l10n-el.git</connection>
-    <developerConnection>scm:git:git@github.com:SonarCommunity/sonar-l10n-el.git</developerConnection>
-    <url>https://github.com/SonarCommunity/sonar-l10n-el</url>
+    <connection>scm:git:git://github.com/SonarQubeCommunity/sonar-l10n-el.git</connection>
+    <developerConnection>scm:git:git@github.com:SonarQubeCommunity/sonar-l10n-el.git</developerConnection>
+    <url>https://github.com/SonarQubeCommunity/sonar-l10n-el</url>
     <tag>HEAD</tag>
   </scm>
     
   <issueManagement>
-    <system>GitHub</system>
-    <url>https://github.com/SonarCommunity/sonar-l10n-el/issues</url>
+    <system>GitHub Issues</system>
+    <url>https://github.com/SonarQubeCommunity/sonar-l10n-el/issues</url>
   </issueManagement>
     
   <properties>
