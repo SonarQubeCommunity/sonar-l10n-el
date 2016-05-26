@@ -2,10 +2,9 @@
 
 SonarQube Greek Language  Plugin
 ================================
-Download and Version information: http://update.sonarsource.org/plugins/l10nel-confluence.html
+[![Build Status](https://api.travis-ci.org/SonarQubeCommunity/sonar-l10n-el.svg)](https://travis-ci.org/SonarQubeCommunity/sonar-l10n-el)
 
-## Build Status
-[![Build Status](https://sonarplugins.ci.cloudbees.com/job/l10n-el/buildStatus/icon?job=check-manifest)](https://sonarplugins.ci.cloudbees.com/job/l10n-el)
+Download and Version information: http://update.sonarsource.org/plugins/l10nel-confluence.html
 
 ## Installation
 1.Install the plugin through the Update Center or download it into the SONARQUBE_HOME/extensions/plugins directory
